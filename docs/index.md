@@ -1,5 +1,5 @@
 <head>
-<center><H1>PNB 2019 Open Science Summer Workshop</H1></center>
+<center><H1>PNB Contemporary Problems - Open Science</H1></center>
 
 
 <li> <a href="https://drfeinberg.github.io/PNB-Open-Science-Summer-Workshop/01-Tri-Council-Open-Access.slides.html" target="_blank">01 - Tri-Council Mandate on Open Access</a></li>
