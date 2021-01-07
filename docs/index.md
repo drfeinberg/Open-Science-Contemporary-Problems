@@ -8,7 +8,7 @@
 <li> <a href="https://drfeinberg.github.io/PNB-Open-Science-Summer-Workshop/04-Registered-Reports.slides.html" target="_blank">04 - Registered Reports</a></li>
 <li> <a href="https://drfeinberg.github.io/PNB-Open-Science-Summer-Workshop/05-Open-Access-Data.slides.html" target="_blank">05 - Open Access Data</a></li>
 <li> <a href="https://drfeinberg.github.io/PNB-Open-Science-Summer-Workshop/06-Open-Stimuli.slides.html" target="_blank">06 - Open Stimuli</a></li>
-<li> <a href="https://drfeinberg.github.io/PNB-Open-Science-Summer-Workshop/07-Reproducible-Statistics.slides.html" target="_blank">06 - Reproducible Statistics</a></li>
+<li> <a href="https://drfeinberg.github.io/PNB-Open-Science-Summer-Workshop/07-Reproducible-Statistics.slides.html" target="_blank">07 - Reproducible Statistics</a></li>
 
 
 </head>
